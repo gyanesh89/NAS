@@ -1,0 +1,4 @@
+pandas
+joblib
+tabula
+tabula-py
